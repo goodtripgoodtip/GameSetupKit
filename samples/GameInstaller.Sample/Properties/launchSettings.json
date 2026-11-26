@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Private-copy mod sample": {
+      "commandName": "Project",
+      "commandLineArgs": "--mod"
+    },
+    "Standalone game sample": {
+      "commandName": "Project",
+      "commandLineArgs": "--standalone"
+    }
+  }
+}
