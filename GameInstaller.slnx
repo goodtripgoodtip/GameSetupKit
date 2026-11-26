@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/GameInstaller.Core/GameInstaller.Core.csproj" />
+  <Project Path="src/GameInstaller.WinForms/GameInstaller.WinForms.csproj" />
+  <Project Path="samples/GameInstaller.Sample/GameInstaller.Sample.csproj" />
+</Solution>
