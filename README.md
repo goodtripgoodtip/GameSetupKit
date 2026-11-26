@@ -2,7 +2,7 @@
 
 A guided Windows installer that game and mod makers can adapt for their projects. Try it with a small demo game included in the download.
 
-**[Try the Windows demo](https://github.com/goodtripgoodtip/GameSetupKit/releases/download/v0.3.0-preview.1/GameSetupKit-Windows-Demo-Offline-v0.3.0-preview.1.zip)** · [All downloads](https://github.com/goodtripgoodtip/GameSetupKit/releases/tag/v0.3.0-preview.1) · [Player guide](docs/Players.md)
+**[Try the Windows demo](https://github.com/goodtripgoodtip/GameSetupKit/releases/download/v0.8.1/GameSetupKit-Windows-Demo-Offline-v0.8.1.zip)** · [Version 0.8.1 downloads](https://github.com/goodtripgoodtip/GameSetupKit/releases/tag/v0.8.1) · [Player guide](docs/Players.md)
 
 ![Game Setup Kit shows the recommended extras and guides the player to the next step.](docs/screenshots/easy.png)
 
