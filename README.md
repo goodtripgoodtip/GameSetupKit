@@ -36,4 +36,4 @@ Open `GameInstaller.slnx` in Visual Studio 2026 with the .NET desktop developmen
 - [NeonLoop comparison](docs/NeonLoop.md) shows how the original mod installer workflow maps to the shared API.
 - [Build and verification](docs/Release.md) covers the standard and offline builds and the local sample checks.
 
-Built by [Good Trip Good Tip](https://github.com/goodtripgoodtip) with [OpenAI Codex](https://github.com/openai/codex) as an AI co-developer. [OpenAI](https://github.com/openai) · [MIT License](LICENSE) · [Hobby Release Terms](HOBBY-TERMS.txt)
+Built by [Good Trip Good Tip](https://github.com/goodtripgoodtip), an ex game dev with 30 years in the industry, with [OpenAI Codex](https://github.com/openai/codex) as an AI co-developer. [OpenAI](https://github.com/openai) · [MIT License](LICENSE) · [Hobby Release Terms](HOBBY-TERMS.txt)
