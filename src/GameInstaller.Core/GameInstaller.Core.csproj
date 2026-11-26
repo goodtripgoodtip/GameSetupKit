@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <EmbeddedResource Include="../../HOBBY-TERMS.txt" LogicalName="GameInstaller.HobbyTerms.txt" />
+  </ItemGroup>
+</Project>
