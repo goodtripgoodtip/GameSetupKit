@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ApplicationIcon>Installer.ico</ApplicationIcon>
+    <ApplicationManifest>Installer.manifest</ApplicationManifest>
+    <Version>0.3.0</Version>
+    <Product>Game Setup Kit Demo</Product>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../src/GameInstaller.WinForms/GameInstaller.WinForms.csproj" />
+    <Content Include="../../LICENSE" Link="LICENSE" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    <Content Include="../../HOBBY-TERMS.txt" Link="HOBBY-TERMS.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+  </ItemGroup>
+</Project>
