@@ -6,7 +6,6 @@
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
     <ApplicationIcon>Installer.ico</ApplicationIcon>
     <ApplicationManifest>Installer.manifest</ApplicationManifest>
-    <Version>0.3.0</Version>
     <Product>Game Setup Kit Demo</Product>
   </PropertyGroup>
   <ItemGroup>

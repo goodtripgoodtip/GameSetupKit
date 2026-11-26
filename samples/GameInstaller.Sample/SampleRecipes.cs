@@ -7,7 +7,7 @@ internal static class SampleRecipes
 {
     internal const string PreparedScene = "Prepared/optional-scene.txt";
     internal const string PreparedInput = "Prepared/scene-input.txt";
-    internal const string Version = "0.3.0";
+    internal static string Version { get; } = typeof(SampleRecipes).Assembly.GetName().Version!.ToString(3);
     internal const string StandaloneId = "SampleStandalone";
     internal const string ModId = "SamplePrivateMod";
 
